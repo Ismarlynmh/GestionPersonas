@@ -14,18 +14,18 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="Resources\icons8-eliminar-16.png">
+    <Resource Include="Resources\icons8-eliminar-16.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Resources\icons8-google-web-search-24.png">
+    </Resource>
+    <Resource Include="Resources\icons8-google-web-search-24.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Resources\icons8-guardar-48.png">
+    </Resource>
+    <Resource Include="Resources\icons8-guardar-48.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Resources\icons8-nuevo-48.png">
+    </Resource>
+    <Resource Include="Resources\icons8-nuevo-48.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    </Resource>
   </ItemGroup>
 
   <ItemGroup>
